@@ -7,7 +7,7 @@ Construção de telas mobile de baixa fidelidade com base nas telas do documento
 - Cainã 
 - Felipe
 - Miki
-- José
+- José Eduardo Nascimento Santos
 - Geovane
 
 | Componente | Onde Aparece | Variações |
