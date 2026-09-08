@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsletter</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        main {
+            padding: 16px;
+        }
+        .newsletter {
+            max-width: 500px;
+            margin: auto;
+            border: 1px solid black;
+            padding: 20px;
+        }
+        .form {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .form__input {
+            padding: 12px;
+            border: 1px solid black;
+        }
+        .form__checkbox {
+            display: flex;
+            gap: 8px;
+        }
+        .button {
+            padding: 12px;
+        }
+        .button--primary {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <section class="newsletter">
+            <h1>
+                Newsletter
+            </h1>
+            <p>
+                Receba as principais novidades da nossa plataforma.
+            </p>
+            <form class="form">
+                <label>
+                    E-mail
+                </label>
+                <input class="form__input" type="email" placeholder="Digite seu e-mail">
+                <label class="form__checkbox">
+                    <input type="checkbox">
+                    <span>
+                        Aceito receber novidades por e-mail!.
+                    </span>
+                </label>
+                <button class="button button--primary" type="submit">
+                    Inscrever-se
+                </button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>

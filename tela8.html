@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usuários</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 16px;
+            border-bottom: 1px solid black;
+        }
+        main {
+            padding: 16px;
+        }
+        .search {
+            margin-bottom: 24px;
+        }
+        .search__input {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid black;
+        }
+        .user {
+            border: 1px solid black;
+            padding: 16px;
+            margin-bottom: 16px;
+        }
+        .user__status {
+            margin: 8px 0 16px;
+        }
+        .button {
+            padding: 10px 16px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <strong>LOGO</strong>
+        <span>
+            ADMIN
+        </span>
+        <button>
+            ☰
+        </button>
+    </header>
+    <main>
+        <section>
+            <h1>Usuários</h1>
+            <div class="search">
+                <input
+                    class="search__input"
+                    type="search"
+                    placeholder="Buscar usuário..."
+                >
+            </div>
+            <article class="user">
+                <h2>
+                    João da Silva
+                </h2>
+                <p>
+                    joao@email.com
+                </p>
+                <p class="user__status">
+                    Status: Ativo
+                </p>
+                <button class="button">
+                    Bloquear usuário
+                </button>
+            </article>
+            <article class="user">
+                <h2>
+                    Maria Souza
+                </h2>
+                <p>
+                    maria@email.com
+                </p>
+                <p class="user__status">
+                    Status: Bloqueado
+                </p>
+                <button class="button">
+                    Desbloquear usuário
+                </button>
+            </article>
+        </section>
+    </main>
+</body>
+</html>
