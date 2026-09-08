@@ -6,7 +6,7 @@ Construção de telas mobile de baixa fidelidade com base nas telas do documento
 
 - Cainã Martins Rocha
 - Felipe Carvalho Amaral
-- Miki
+- Miki Namiuti Nakamatsu
 - José Eduardo Nascimento Santos
 - Geovane dos Santos Martins
 
