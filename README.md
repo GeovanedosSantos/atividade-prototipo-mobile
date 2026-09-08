@@ -8,7 +8,7 @@ Construção de telas mobile de baixa fidelidade com base nas telas do documento
 - Felipe Carvalho Amaral
 - Miki
 - José Eduardo Nascimento Santos
-- Geovane
+- Geovane dos Santos Martins
 
 | Componente | Onde Aparece | Variações |
 | ---------- | ------------ | --------- | 
