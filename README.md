@@ -4,7 +4,7 @@ Construção de telas mobile de baixa fidelidade com base nas telas do documento
 
 ## Integrantes
 
-- Cainã 
+- Cainã Martins Rocha
 - Felipe Carvalho Amaral
 - Miki
 - José Eduardo Nascimento Santos
