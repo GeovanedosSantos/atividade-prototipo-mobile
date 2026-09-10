@@ -4,11 +4,13 @@ Construção de telas mobile de baixa fidelidade com base nas telas do documento
 
 ## Integrantes
 
-- Cainã Martins Rocha
-- Felipe Carvalho Amaral
-- Miki Namiuti Nakamatsu
-- José Eduardo Nascimento Santos
-- Geovane dos Santos Martins
+- Cainã Rocha- 825138527
+- Felipe Carvalho Amaral - 82317363
+- Geovane dos Santos Martins - 823145314
+- Miki Namiuti Nakamatsu - 823121391
+- José Eduardo 82412643
+
+---
 
 | Componente              | Onde Aparece                                                                                        | Variações                                                                                                                                     |
 | ----------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
